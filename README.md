@@ -40,7 +40,7 @@
 
 ## About The Project
 
-<img src="readme-images/project-screenshot.png" alt="Project Screenshot" width="100" height="100">
+<img src="readme-images/project-screenshot.png" alt="Project Screenshot" width="250">
 <br />
 
 This is just a simple app built in React Native for practice. Feel free to check it out!
