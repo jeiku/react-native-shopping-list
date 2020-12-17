@@ -43,7 +43,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](readme-images/project-screenshot.png)
+[![Shopping List][shopping-list-screenshot](readme-images/project-screenshot.png)
 
 This is just a simple app built in React Native for practice. Feel free to check it out!
 
