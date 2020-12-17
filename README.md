@@ -78,7 +78,7 @@ If you want to test in an actual Android or IOS virtual environment, you will ne
    ```sh
    npx react-native start
    ```
-  (If testing on IOS emulator) Start Metro terminal
+   (If testing on IOS emulator) Start Metro terminal
    ```sh
    npx react-native start
    ```
