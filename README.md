@@ -21,6 +21,8 @@
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
+        <img src="readme-images/project-screenshot.png" alt="Project Screenshot">
+        <br />
       <ul>
         <li><a href="#built-with">Built With</a></li>
       </ul>
@@ -39,8 +41,6 @@
 <!-- ABOUT THE PROJECT -->
 
 ## About The Project
-
-[![Shopping List][shopping-list-screenshot]](readme-images/project-screenshot.png)
 
 This is just a simple app built in React Native for practice. Feel free to check it out!
 
